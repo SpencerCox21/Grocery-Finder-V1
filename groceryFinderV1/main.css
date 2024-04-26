@@ -7,13 +7,85 @@
 
 
 body {
-    height: 100vh;
+    background-color: blue;
 }
 
 main {
     display: flex;
-    flex-direction: row;
     justify-content: space-around;
+    align-content: space-around;
+
+}
+
+h1 {
+    margin: 30px;
+}
+
+a {
+
+    margin: 25px;
+    font-size: larger;
+
+}
+
+#recipeSelector{
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    height: 100vh;
+    width: 60vw;
+    
     
 }
 
+#groceriesSelected{
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    height: 100vh;
+    width: 40vw;
+    
+}
+
+#recipeTypes{
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    height: 40vh;
+    flex-wrap: wrap;
+    background-color: beige;
+}
+
+#recipeDisplay {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-start;
+    height: 60vh;
+    background-color: rgb(158, 226, 255);
+
+}
+
+#groceryList{
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    height: 60vh;
+    background-color: rgb(255, 123, 123);
+    
+}
+
+#recipiesSelected {
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    height: 40vh;
+    flex-wrap: wrap;
+    background-color: aliceblue;
+    
+}
+
+#recipeTypesTitle {
+    align-self: flex-start;
+}
