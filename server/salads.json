@@ -1,0 +1,205 @@
+[
+    {
+        "id": "airFriedArtichokeSalad",
+        "recipeName": "Air Fried Artichoke Salad",
+        "imageURL": "insert image here",
+        "totalIngredients": 11,
+        "ingredient1": {
+            "name": "artichokes in water",
+            "qty": 2,
+            "measurement": "can(s) of"
+        },
+        "ingredient2": {
+            "name": "garlic",
+            "qty": 2,
+            "measurement": "clove(s) of"
+        },
+        "ingredient3": {
+            "name": "avocado oil",
+            "qty": 1,
+            "measurement": "serving(s) of"
+        },
+        "ingredient4": {
+            "name": "brussles sprouts",
+            "qty": 6,
+            "measurement": "cup(s) of"
+        },
+        "ingredient5": {
+            "name": "celery",
+            "qty": 4,
+            "measurement": "stalk(s) of"
+        },
+        "ingredient6": {
+            "name": "white beans",
+            "qty": 1,
+            "measurement": "can(s) of"
+        },
+        "ingredient7": {
+            "name": "fresh parsley",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient8": {
+            "name": "shallot",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient9": {
+            "name": "dijon mustard",
+            "qty": 2,
+            "measurement": "tsp of"
+        },
+        "ingredient10": {
+            "name": "lemon",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient11": {
+            "name": "parmesan cheese",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        }        
+    },
+    {
+        "id": "arugulaAndBlisteredTomatoSalad",
+        "recipeName": "Arugula & Blistered Tomato Salad",
+        "imageURL": "insert image here",
+        "totalIngredients": 12,
+        "ingredient1": {
+            "name": "avocado oil",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient2": {
+            "name": "cherry tomatoes",
+            "qty": 2,
+            "measurement": "cup(s) of"
+        },
+        "ingredient3": {
+            "name": "arugula",
+            "qty": 7,
+            "measurement": "cup(s) of"
+        },
+        "ingredient4": {
+            "name": "white beans",
+            "qty": 1,
+            "measurement": "can(s) of"
+        },
+        "ingredient5": {
+            "name": "shallot",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient6": {
+            "name": "garlic",
+            "qty": 1,
+            "measurement": "clove(s) of"
+        },
+        "ingredient7": {
+            "name": "dijon mustard",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient8": {
+            "name": "balsamic vinegar",
+            "qty": 0.25,
+            "measurement": "cup(s) of"
+        },
+        "ingredient9": {
+            "name": "mayonnaise",
+            "qty": 0.25,
+            "measurement": "cup(s) of"
+        },
+        "ingredient10": {
+            "name": "fresh thyme",
+            "qty": 3,
+            "measurement": "sprig(s) of"
+        },
+        "ingredient11": {
+            "name": "salt",
+            "qty": 0.5,
+            "measurement": "tsp of"
+        },
+        "ingredient12": {
+            "name": "black pepper",
+            "qty": 0.25,
+            "measurement": "tsp of"
+        }
+    },
+    {
+        "id": "burgerSalad",
+        "recipeName": "Burger Salad",
+        "imageURL": "insert image here",
+        "totalIngredients": 14,
+        "ingredient1": {
+            "name": "leafy greens",
+            "qty": 1,
+            "measurement": "serving(s) of"
+        },
+        "ingredient2": {
+            "name": "red onion",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient3": {
+            "name": "tomato",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient4": {
+            "name": "lean ground beef",
+            "qty": 1,
+            "measurement": "cup(s) of"
+        },
+        "ingredient5": {
+            "name": "pickles",
+            "qty": 0.33,
+            "measurement": "cup(s) of"
+        },
+        "ingredient6": {
+            "name": "air-fried potato fries",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient7": {
+            "name": "shredded cheese",
+            "qty": 1,
+            "measurement": "pinch(s) of"
+        },
+        "ingredient8": {
+            "name": "fat free greek yogurt",
+            "qty": 2,
+            "measurement": "tbsp of"
+        },
+        "ingredient9": {
+            "name": "sugar-free ketchup",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient10": {
+            "name": "mustard",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient11": {
+            "name": "relish",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient12": {
+            "name": "white vinegar",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient13": {
+            "name": "garlic powder",
+            "qty": 1,
+            "measurement": "pinch(s) of"
+        },
+        "ingredient14": {
+            "name": "onion powder",
+            "qty": 1,
+            "measurement": "pinch(s) of"
+        }
+    }
+]

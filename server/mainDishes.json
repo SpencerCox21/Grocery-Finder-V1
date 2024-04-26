@@ -1,0 +1,165 @@
+[
+    {
+        "id": "cherryBalsamicPorkChops",
+        "recipeName": "Cherry Balsamic Pork Chops",
+        "imageURL": "insert image here",
+        "totalIngredients": 7,
+        "ingredient1": {
+            "name": "roasted vegetables",
+            "qty": 2,
+            "measurement": "serving(s) of"
+        },
+        "ingredient2": {
+            "name": "instant mashed potatos",
+            "qty": 1,
+            "measurement": "packet(s) of"
+        },
+        "ingredient3": {
+            "name": "dried thyme",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient4": {
+            "name": "pork chops",
+            "qty": 2,
+            "measurement": "serving(s) of"
+        },
+        "ingredient5": {
+            "name": "balsamic vinegar",
+            "qty": 5,
+            "measurement": "tsp of"
+        },
+        "ingredient6": {
+            "name": "cherry preserves (preferable Bonne Mama cherry jam)",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient7": {
+            "name": "green onion",
+            "qty": 1,
+            "measurement": "stalk(s) of"
+        }
+    },
+    {
+        "id": "chickenGyroBowls",
+        "recipeName": "Chicken Gyro Bowls",
+        "imageURL": "insert image here",
+        "totalIngredients": 12,
+        "ingredient1": {
+            "name": "red onion",
+            "qty": 0.5,
+            "measurement": "of"
+        },
+        "ingredient2": {
+            "name": "persian cucumber",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient3": {
+            "name": "heirloom grape tomatoes",
+            "qty": 4,
+            "measurement": "oz. of"
+        },
+        "ingredient4": {
+            "name": "lemon",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient5": {
+            "name": "dried dill",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient6": {
+            "name": "acini de pepe (or cous cous)",
+            "qty": 0.75,
+            "measurement": "cup(s) of"
+        },
+        "ingredient7": {
+            "name": "chicken stock",
+            "qty": 1,
+            "measurement": "cup(s) of"
+        },
+        "ingredient8": {
+            "name": "chicken breasts",
+            "qty": 2,
+            "measurement": "serving(s) of"
+        },
+        "ingredient9": {
+            "name": "za'atar spice",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient10": {
+            "name": "feta cheese",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient11": {
+            "name": "sour cream",
+            "qty": 2,
+            "measurement": "tbsp of"
+        },
+        "ingredient12": {
+            "name": "plain hummus",
+            "qty": 2,
+            "measurement": "tbsp of"
+        }
+    },
+    {
+        "id": "creamyLemonSalmon",
+        "recipeName": "Creamy Lemon Salmon",
+        "imageURL": "insert image here",
+        "totalIngredients": 10,
+        "ingredient1": {
+            "name": "roma tomato",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient2": {
+            "name": "lemon",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient3": {
+            "name": "green onion",
+            "qty": 2,
+            "measurement": "stalk(s) of"
+        },
+        "ingredient4": {
+            "name": "garlic",
+            "qty": 2,
+            "measurement": "clove(s) of"
+        },
+        "ingredient5": {
+            "name": "sour cream",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient6": {
+            "name": "acini de pepe (or cous cous)",
+            "qty": 1,
+            "measurement": "cup(s) of"
+        },
+        "ingredient7": {
+            "name": "salmon fillets (skin-on)",
+            "qty": 2,
+            "measurement": "serving(s) of"
+        },
+        "ingredient8": {
+            "name": "fry seasoning (see common spice blends)",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient9": {
+            "name": "butter",
+            "qty": 2,
+            "measurement": "tbsp of"
+        },
+        "ingredient10": {
+            "name": "neutral oil",
+            "qty": 1,
+            "measurement": "tbsp of"
+        }  
+    }
+]

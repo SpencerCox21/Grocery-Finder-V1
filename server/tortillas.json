@@ -1,0 +1,180 @@
+[
+    {
+        "id": "bakedBBQChickenTacos",
+        "recipeName": "Baked BBQ Chicken Tacos",
+        "imageURL": "insert image here",
+        "totalIngredients": 12,
+        "ingredient1": {
+            "name": "shredded chicken",
+            "qty": 2,
+            "measurement": "serving(s) of"
+        },
+        "ingredient2": {
+            "name": "paprika",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient3": {
+            "name": "garlic powder",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient4": {
+            "name": "onion powder",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient5": {
+            "name": "barbeque sauce",
+            "qty": 0.25,
+            "measurement": "cup(s) of"
+        },
+        "ingredient6": {
+            "name": "sweet corn",
+            "qty": 0.25,
+            "measurement": "cup(s) of"
+        },
+        "ingredient7": {
+            "name": "red onion",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient8": {
+            "name": "jalapeno",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient9": {
+            "name": "shredded cheese",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient10": {
+            "name": "small tortillas",
+            "qty": 4,
+            "measurement": "of"
+        },
+        "ingredient11": {
+            "name": "tomato",
+            "qty": 1,
+            "measurement": "garnish of"
+        },
+        "ingredient12": {
+            "name": "cilantro",
+            "qty": 1,
+            "measurement": "garnish of"
+        }
+    },
+    {
+        "id": "chickenTingaTostadas",
+        "recipeName": "Chicken Tinga Tostadas",
+        "imageURL": "insert image here",
+        "totalIngredients": 11,
+        "ingredient1": {
+            "name": "white onion",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient2": {
+            "name": "garlic",
+            "qty": 4,
+            "measurement": "clove(s) of"
+        },
+        "ingredient3": {
+            "name": "chipotle in adobo",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient4": {
+            "name": "fire-roasted tomatoes",
+            "qty": 1,
+            "measurement": "can(s) of"
+        },
+        "ingredient5": {
+            "name": "chili powder",
+            "qty": 2,
+            "measurement": "tbsp of"
+        },
+        "ingredient6": {
+            "name": "skin-on bone-in chicken breasts",
+            "qty": 2,
+            "measurement": "of"
+        },
+        "ingredient7": {
+            "name": "smoked bacon",
+            "qty": 4,
+            "measurement": "oz. of"
+        },
+        "ingredient8": {
+            "name": "black beans",
+            "qty": 2,
+            "measurement": "can(s) of"
+        },
+        "ingredient9": {
+            "name": "tostada shells",
+            "qty": 8,
+            "measurement": "of"
+        },
+        "ingredient10": {
+            "name": "queso fresco",
+            "qty": 4,
+            "measurement": "oz. of"
+        },
+        "ingredient11": {
+            "name": "cilantro",
+            "qty": 0.75,
+            "measurement": "cup(s) of"
+        }
+    },
+    {
+        "id": "fastSteakFajitas",
+        "recipeName": "Fast Steak Fajitas",
+        "imageURL": "insert image here",
+        "totalIngredients": 9,
+        "ingredient1": {
+            "name": "yellow onion",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient2": {
+            "name": "red bell pepper",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient3": {
+            "name": "lime",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient4": {
+            "name": "flank steak",
+            "qty": 1,
+            "measurement": "package(s) of"
+        },
+        "ingredient5": {
+            "name": "southwest spice blend",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient6": {
+            "name": "sour cream",
+            "qty": 4,
+            "measurement": "tbsp of"
+        },
+        "ingredient7": {
+            "name": "hot sauce",
+            "qty": 2,
+            "measurement": "tsp of"
+        },
+        "ingredient8": {
+            "name": "medium flour tortillas",
+            "qty": 6,
+            "measurement": "of"
+        },
+        "ingredient9": {
+            "name": "mexican blend cheese",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        }
+    }
+]
