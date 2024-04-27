@@ -1,0 +1,69 @@
+[
+    {
+        "id": "cherryCheeseCrostinis",
+        "recipeName": "Cherry Cheese Crostinis",
+        "imageURL": "insert image here",
+        "totalIngredients": 3,
+        "ingredient1": {
+            "name": "crostinis",
+            "qty": 1,
+            "measurement": "package(s) of"
+        },
+        "ingredient2": {
+            "name": "bonne maman cherry preserves",
+            "qty": 1,
+            "measurement": "can(s) of"
+        },
+        "ingredient3": {
+            "name": "rosemary goat cheese",
+            "qty": 1,
+            "measurement": "package(s) of"
+        }
+    },
+    {
+        "id": "crackCornDip",
+        "recipeName": "Crack Corn Dip",
+        "imageURL": "insert image here",
+        "totalIngredients": 8,
+        "ingredient1": {
+            "name": "corn",
+            "qty": 3,
+            "measurement": "12oz. can(s) of"
+        },
+        "ingredient2": {
+            "name": "green chiles",
+            "qty": 1,
+            "measurement": "4oz. can(s) of"
+        },
+        "ingredient3": {
+            "name": "jalapeno",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient4": {
+            "name": "green onions",
+            "qty": 1,
+            "measurement": "bunch(s) of"
+        },
+        "ingredient5": {
+            "name": "mayonnaise",
+            "qty": 1,
+            "measurement": "cup(s) of"
+        },
+        "ingredient6": {
+            "name": "sour cream",
+            "qty": 1,
+            "measurement": "cup(s) of"
+        },
+        "ingredient7": {
+            "name": "cheddar cheese",
+            "qty": 1,
+            "measurement": "cup(s) of"
+        },
+        "ingredient8": {
+            "name": "garlic powder",
+            "qty": 0.5,
+            "measurement": "tsp of"
+        }
+    }
+]

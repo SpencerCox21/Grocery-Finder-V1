@@ -1,0 +1,190 @@
+[
+    {
+        "id": "beefStroganoff",
+        "recipeName": "Beef Stroganoff",
+        "imageURL": "insert image here",
+        "totalIngredients": 13,
+        "ingredient1": {
+            "name": "braised Beef",
+            "qty": 3,
+            "measurement": "cup(s) of"
+        },
+        "ingredient2": {
+            "name": "butter",
+            "qty": 0.25,
+            "measurement": "cup(s) of"
+        },
+        "ingredient3": {
+            "name": "mushrooms",
+            "qty": 1,
+            "measurement": "lb(s) of"
+        },
+        "ingredient4": {
+            "name": "white onion",
+            "qty": 2,
+            "measurement": "of"
+        },
+        "ingredient5": {
+            "name": "garlic",
+            "qty": 5,
+            "measurement": "clove(s) of"
+        },
+        "ingredient6": {
+            "name": "red wine vinegar",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient7": {
+            "name": "flour",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient8": {
+            "name": "beef broth",
+            "qty": 4,
+            "measurement": "cup(s) of"
+        },
+        "ingredient9": {
+            "name": "worcestershire sauce",
+            "qty": 0.25,
+            "measurement": "cup(s) of"
+        },
+        "ingredient10": {
+            "name": "salt",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient11": {
+            "name": "black pepper",
+            "qty": 2,
+            "measurement": "tsp of"
+        },
+        "ingredient12": {
+            "name": "fresh parsley",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient13": {
+            "name": "sour cream",
+            "qty": 2,
+            "measurement": "cup(s) of"
+        }
+    }, 
+    {
+        "id": "blackenedChickenPasta",
+        "recipeName": "Blackened Chicken Pasta",
+        "imageURL": "insert image here",
+        "totalIngredients": 13,
+        "ingredient1": {
+            "name": "poblano pepper",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient2": {
+            "name": "yellow onion",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient3": {
+            "name": "garlic",
+            "qty": 1,
+            "measurement": "clove(s) of"
+        },
+        "ingredient4": {
+            "name": "roma tomato",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient5": {
+            "name": "chicken breast",
+            "qty": 2,
+            "measurement": "of"
+        },
+        "ingredient6": {
+            "name": "blackening spice",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient7": {
+            "name": "pasta of choice",
+            "qty": 2,
+            "measurement": "serving(s) of"
+        },
+        "ingredient8": {
+            "name": "cream cheese",
+            "qty": 4,
+            "measurement": "tbsp of"
+        },
+        "ingredient9": {
+            "name": "monterey jack cheese",
+            "qty": 0.25,
+            "measurement": "cup(s) of"
+        },
+        "ingredient10": {
+            "name": "chicken stock",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient11": {
+            "name": "hot sauce",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient12": {
+            "name": "butter",
+            "qty": 2,
+            "measurement": "tbsp of"
+        },
+        "ingredient13": {
+            "name": "oil",
+            "qty": 1,
+            "measurement": "tbsp of"
+        }
+    },
+    {
+        "id": "brocoliPestoPasta",
+        "recipeName": "Brocoli Pesto Pasta",
+        "imageURL": "insert image here",
+        "totalIngredients": 8,
+        "ingredient1": {
+            "name": "pasta of choice",
+            "qty": 2,
+            "measurement": "cup(s) of"
+        },
+        "ingredient2": {
+            "name": "pesto",
+            "qty": 3,
+            "measurement": "tbsp of"
+        },
+        "ingredient3": {
+            "name": "heavy cream",
+            "qty": 4,
+            "measurement": "tbsp of"
+        },
+        "ingredient4": {
+            "name": "chili flakes",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient5": {
+            "name": "garlic",
+            "qty": 5,
+            "measurement": "clove(s) of"
+        },
+        "ingredient6": {
+            "name": "broccoli crowns",
+            "qty": 2,
+            "measurement": "serving(s) of"
+        },
+        "ingredient7": {
+            "name": "olive oil",
+            "qty": 1,
+            "measurement": "serving(s) of"
+        },
+        "ingredient8": {
+            "name": "lemon juice",
+            "qty": 1,
+            "measurement": "serving(s) of"
+        }
+    }
+]

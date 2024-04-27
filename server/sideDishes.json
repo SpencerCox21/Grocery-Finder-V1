@@ -1,0 +1,78 @@
+[
+    {
+        "id": "bakedBeans",
+        "recipeName": "Baked Beans",
+        "imageURL": "insert image here",
+        "totalIngredients": 14,
+        "ingredient1": {
+            "name": "bacon",
+            "qty": 4,
+            "measurement": "slice(s) of"
+        },
+        "ingredient2": {
+            "name": "red onion",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient3": {
+            "name": "red bell pepper",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient4": {
+            "name": "garlic",
+            "qty": 2,
+            "measurement": "clove(s) of"
+        },
+        "ingredient5": {
+            "name": "smoked paprika",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient6": {
+            "name": "chipotle chili powder",
+            "qty": 0.5,
+            "measurement": "tsp of"
+        },
+        "ingredient7": {
+            "name": "salt",
+            "qty": 0.25,
+            "measurement": "tsp of"
+        },
+        "ingredient8": {
+            "name": "black pepper",
+            "qty": 0.25,
+            "measurement": "tsp of"
+        },
+        "ingredient9": {
+            "name": "apple cider vinegar",
+            "qty": 2,
+            "measurement": "tbsp of"
+        },
+        "ingredient10": {
+            "name": "barbeque sauce",
+            "qty": 2,
+            "measurement": "tbsp of"
+        },
+        "ingredient11": {
+            "name": "ketchup",
+            "qty": 2,
+            "measurement": "tbsp of"
+        },
+        "ingredient12": {
+            "name": "dijon mustard",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient13": {
+            "name": "brown sugar",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient14": {
+            "name": "baked beans",
+            "qty": 2,
+            "measurement": "22oz. can(s) of"
+        }
+    }
+]
