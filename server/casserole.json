@@ -1,0 +1,180 @@
+[
+    {
+        "id": "macAndCheeseCasserole",
+        "recipeName": "Mac & Cheese Casserole",
+        "imageURL": "insert image here",
+        "totalIngredients": 11,
+        "ingredient1": {
+            "name": "elbow macaroni",
+            "qty": 16,
+            "measurement": "oz. of"
+        },
+        "ingredient2": {
+            "name": "olive oil",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient3": {
+            "name": "unsalted butter",
+            "qty": 10,
+            "measurement": "tbsp of"
+        },
+        "ingredient4": {
+            "name": "flour",
+            "qty": 0.66,
+            "measurement": "cup(s) of"
+        },
+        "ingredient5": {
+            "name": "whole milk",
+            "qty": 3,
+            "measurement": "cup(s) of"
+        },
+        "ingredient6": {
+            "name": "heavy whipping cream",
+            "qty": 1,
+            "measurement": "cup(s) of"
+        },
+        "ingredient7": {
+            "name": "cheddar cheese",
+            "qty": 4,
+            "measurement": "cup(s) of"
+        },
+        "ingredient8": {
+            "name": "gruyere cheese",
+            "qty": 2,
+            "measurement": "cup(s) of"
+        },
+        "ingredient9": {
+            "name": "panko breadcrumbs",
+            "qty": 1.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient10": {
+            "name": "parmesan cheese",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient11": {
+            "name": "smoked paprika",
+            "qty": 0.25,
+            "measurement": "tsp of"
+        }
+    },
+    {
+        "id": "salsaVerdeChickenCasserole",
+        "recipeName": "Salsa Verde Chicken Casserole",
+        "imageURL": "insert image here",
+        "totalIngredients": 10,
+        "ingredient1": {
+            "name": "shredded chicken",
+            "qty": 2,
+            "measurement": "cup(s) of"
+        },
+        "ingredient2": {
+            "name": "cumin",
+            "qty": 2,
+            "measurement": "tsp of"
+        },
+        "ingredient3": {
+            "name": "smoked paprika",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient4": {
+            "name": "chili powder",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient5": {
+            "name": "sour cream",
+            "qty": 1,
+            "measurement": "cup(s) of"
+        },
+        "ingredient6": {
+            "name": "salsa verde",
+            "qty": 1.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient7": {
+            "name": "tortilla",
+            "qty": 8,
+            "measurement": "small"
+        },
+        "ingredient8": {
+            "name": "tomato",
+            "qty": 2,
+            "measurement": "cup(s) of"
+        },
+        "ingredient9": {
+            "name": "fresh cilantro",
+            "qty": 0.25,
+            "measurement": "cup(s) of"
+        },
+        "ingredient10": {
+            "name": "monterey jack cheese",
+            "qty": 2,
+            "measurement": "cup(s) of"
+        }
+    },
+    {
+        "id": "shepardsPieCasserole",
+        "recipeName": "Shepard's Pie Casserole",
+        "imageURL": "insert image here",
+        "totalIngredients": 11,
+        "ingredient1": {
+            "name": "ground beef",
+            "qty": 1,
+            "measurement": "lb(s) of"
+        },
+        "ingredient2": {
+            "name": "yellow onion",
+            "qty": 1,
+            "measurement": "cup(s) of"
+        },
+        "ingredient3": {
+            "name": "corn",
+            "qty": 2,
+            "measurement": "cup(s) of"
+        },
+        "ingredient4": {
+            "name": "ketchup",
+            "qty": 2,
+            "measurement": "tbsp of"
+        },
+        "ingredient5": {
+            "name": "worcestershire sauce",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient6": {
+            "name": "garlic",
+            "qty": 2,
+            "measurement": "tsp of"
+        },
+        "ingredient7": {
+            "name": "cornstarch",
+            "qty": 1,
+            "measurement": "tbsp of"
+        },
+        "ingredient8": {
+            "name": "beef stock",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient9": {
+            "name": "sour cream",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient10": {
+            "name": "instant mashed potatoes",
+            "qty": 3.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient11": {
+            "name": "cheddar cheese",
+            "qty": 0.75,
+            "measurement": "cup(s) of"
+        }
+    }
+]

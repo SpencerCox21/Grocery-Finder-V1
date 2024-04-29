@@ -1,0 +1,170 @@
+[
+    {
+        "id": "broccoliCheddarSoup",
+        "recipeName": "Broccoli Cheddar Soup",
+        "imageURL": "insert image here",
+        "totalIngredients": 9,
+        "ingredient1": {
+            "name": "onion",
+            "qty": 2,
+            "measurement": "of"
+        },
+        "ingredient2": {
+            "name": "garlic",
+            "qty": 4,
+            "measurement": "clove(s) of"
+        },
+        "ingredient3": {
+            "name": "unsalted butter",
+            "qty": 3,
+            "measurement": "tbsp of"
+        },
+        "ingredient4": {
+            "name": "red pepper flakes",
+            "qty": 0.5,
+            "measurement": "tsp of"
+        },
+        "ingredient5": {
+            "name": "broccoli",
+            "qty": 2,
+            "measurement": "crown(s) of"
+        },
+        "ingredient6": {
+            "name": "russet potato",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient7": {
+            "name": "cheddar cheese",
+            "qty": 8,
+            "measurement": "oz. of"
+        },
+        "ingredient8": {
+            "name": "bread",
+            "qty": 4,
+            "measurement": "thick slices of"
+        },
+        "ingredient9": {
+            "name": "greek yogurt",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        }
+    },
+    {
+        "id": "butternutSquashSoup",
+        "recipeName": "Butternut Squash Soup",
+        "imageURL": "insert image here",
+        "totalIngredients": 11,
+        "ingredient1": {
+            "name": "garlic",
+            "qty": 3,
+            "measurement": "clove(s) of"
+        },
+        "ingredient2": {
+            "name": "carrot",
+            "qty": 2,
+            "measurement": "whole"
+        },
+        "ingredient3": {
+            "name": "yellow onion",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient4": {
+            "name": "celery",
+            "qty": 2,
+            "measurement": "stalk(s) of"
+        },
+        "ingredient5": {
+            "name": "butternut squash",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient6": {
+            "name": "rubbed sage",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient7": {
+            "name": "rosemary",
+            "qty": 0.5,
+            "measurement": "tsp of"
+        },
+        "ingredient8": {
+            "name": "ginger",
+            "qty": 1,
+            "measurement": "tsp of"
+        },
+        "ingredient9": {
+            "name": "chicken broth",
+            "qty": 4,
+            "measurement": "cup(s) of"
+        },
+        "ingredient10": {
+            "name": "heavy cream",
+            "qty": 14,
+            "measurement": "oz. of"
+        },
+        "ingredient11": {
+            "name": "bacon",
+            "qty": 4,
+            "measurement": "slice(s) of"
+        }
+    },
+    {
+        "id": "chickenAndRiceSoup",
+        "recipeName": "Chicken & Rice Soup",
+        "imageURL": "insert image here",
+        "totalIngredients": 10,
+        "ingredient1": {
+            "name": "yellow onion",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient2": {
+            "name": "garlic",
+            "qty": 6,
+            "measurement": "clove(s) of"
+        },
+        "ingredient3": {
+            "name": "white rice",
+            "qty": 0.66,
+            "measurement": "cup(s) of"
+        },
+        "ingredient4": {
+            "name": "vegetable oil",
+            "qty": 0.5,
+            "measurement": "cup(s) of"
+        },
+        "ingredient5": {
+            "name": "red pepper flakes",
+            "qty": 2,
+            "measurement": "tsp of"
+        },
+        "ingredient6": {
+            "name": "boneless chicken thighs",
+            "qty": 1,
+            "measurement": "lb(s) of"
+        },
+        "ingredient7": {
+            "name": "salt",
+            "qty": 2.5,
+            "measurement": "tsp of"
+        },
+        "ingredient8": {
+            "name": "tuscan kale",
+            "qty": 1,
+            "measurement": "large bunch(s) of"
+        },
+        "ingredient9": {
+            "name": "lemon",
+            "qty": 1,
+            "measurement": "of"
+        },
+        "ingredient10": {
+            "name": "dill",
+            "qty": 3,
+            "measurement": "sprig(s) of"
+        }
+    }
+]
