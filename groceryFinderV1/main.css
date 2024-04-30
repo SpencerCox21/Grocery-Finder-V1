@@ -57,7 +57,7 @@ a {
 #soupsLink { grid-area: 3 / 2 / 4 / 3; padding-left: 95px; padding-bottom: 25px;}
 #breadsLink { grid-area: 3 / 3 / 4 / 4; padding-left: 95px; padding-bottom: 25px;}
 #bulkLink { grid-area: 4 / 1 / 5 / 2; padding-left: 105px; padding-bottom: 25px;}
-#cakeAndPieLink { grid-area: 4 / 2 / 5 / 3; padding-left: 45px; padding-bottom: 25px;}
+#cakesAndPieLink { grid-area: 4 / 2 / 5 / 3; padding-left: 45px; padding-bottom: 25px;}
 #cookiesLink { grid-area: 4 / 3 / 5 / 4; padding-left: 85px; padding-bottom: 25px;}
 #pastriesLink { grid-area: 5 / 1 / 6 / 2; padding-left: 80px; padding-bottom: 25px;}
 #otherRecipiesLink { grid-area: 5 / 2 / 6 / 4; padding-left: 100px; padding-bottom: 25px;}

@@ -1,11 +1,19 @@
 const mainDishes = require('./mainDishes.json')
 const salads = require('./salads.json')
+const sideDishes = require('./sideDishes.json')
+const appetizers = require('./appetizers.json')
 const tortillas = require('./tortillas.json')
-
+const pastaAndNoodles = require('./pastaAndNoodles.json')
+const casseroles = require('./casseroles.json')
+const soups = require('./soups.json')
+const breads = require('./breads.json')
+const bulk = require('./bulk.json')
+const cakesAndPies = require('./cakesAndPies.json')
+const cookies = require('./cookies.json')
+const pastries = require('./pastries.json')
+const otherRecipies = require('./otherRecipies.json')
 
 let ingredients = require('./ingredients.json')
-
-
 
 
 
