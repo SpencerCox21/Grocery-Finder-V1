@@ -54,6 +54,29 @@ otherRecipiesLink.addEventListener("click", getOtherRecipies);
 
 
 
+function createItemCardMainDishes(mainDishes) {
 
-let i = 0;
+    const itemCard = document.createElement('section')
+    itemCard.classList.add('recipeBorder')
+
+    itemCard.innerHTML = `<img alt='recipe image' src=${mainDishes.imageURL} class="recipe-pic"/>
+    <p class="name">${mainDishes.recipeName}</p>
+    <div class="btns-container">
+    <button class="addToRecipiesBtn" id="btn_${mainDishes.id}">Add to List</button>
+    </div>
+    `
+    
+    itemContainer.appendChild(itemCard)
+    const addToCartBtn = document.querySelector(`#btn_${mshirt.id}`)
+
+    addToCartBtn.addEventListener("click", () => {
+        addToCart(mshirt)
+    })
+}
+function displayMShirt(arr) {
+    itemContainer.innerHTML = ``
+    for (let i = 0; i < arr.length; i++) {
+        createItemCardMShirt(arr[i])
+    }
+}
 

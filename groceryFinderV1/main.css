@@ -26,6 +26,39 @@ a {
     border: 5px;
 }
 
+.links {
+    color: black;
+    font-weight: 500;
+}
+  
+.links:hover {
+    color: blue;
+    font-weight: 500;
+}
+
+.links:active {
+    color:red;
+    font-weight: 500;
+}
+
+button {
+    padding: 5px 10px;
+    border: none;
+    background-color: darkorange;
+    color: white;
+    border-radius: 5px;
+}
+  
+button:hover {
+    box-shadow: 0 0 10px black;
+}
+  
+button:active {
+    transform: scale(0.95, 0.95);
+}
+
+
+
 #recipeSelector{
     justify-content: center;
     min-height: 100vh;
@@ -89,6 +122,8 @@ a {
     justify-self: center;
     align-self: center;
     background-color: aquamarine;
+    color: black;
+
     height: 50px;
     width: 250px;
     font-size: x-large;
@@ -130,3 +165,21 @@ a {
     background-color: lightgreen;
 }
 
+.recipeBorder {
+    background-color: #050740;
+    height: 300px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+}
+
+.recipe-pic {
+    height: 185px;
+    width: 180px;
+    border-radius: 10px;
+}
