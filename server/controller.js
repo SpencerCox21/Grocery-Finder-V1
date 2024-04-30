@@ -14,16 +14,46 @@ module.exports = {
     getMainDishes: (req, res) => {
         res.status(200).send(mainDishes)
     },
-
     getSalads: (req, res) => {
         res.status(200).send(salads)
     },
-
+    getSideDishes: (req, res) => {
+        res.status(200).send(sideDishes)
+    },
+    getAppetizers: (req, res) => {
+        res.status(200).send(appetizers)
+    },
     getTortillas: (req, res) => {
         res.status(200).send(tortillas)
     },
+    getPastaAndNoodles: (req, res) => {
+        res.status(200).send(pastaAndNoodles)
+    },
+    getCasseroles: (req, res) => {
+        res.status(200).send(casseroles)
+    },
+    getSoups: (req, res) => {
+        res.status(200).send(soups)
+    },
+    getBreads: (req, res) => {
+        res.status(200).send(breads)
+    },
+    getBulk: (req, res) => {
+        res.status(200).send(bulk)
+    },
+    getCakesAndPies: (req, res) => {
+        res.status(200).send(cakesAndPies)
+    },
+    getCookies: (req, res) => {
+        res.status(200).send(cookies)
+    },
+    getPastries: (req, res) => {
+        res.status(200).send(pastries)
+    },
+    getOtherRecipies: (req, res) => {
+        res.status(200).send(otherRecipies)
+    },
 
-    
 
 
 
