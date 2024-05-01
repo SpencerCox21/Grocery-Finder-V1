@@ -166,7 +166,7 @@ button:active {
 }
 
 .recipeBorder {
-    background-color: #050740;
+    background-color: rgb(14, 14, 85);
     height: 300px;
     width: 200px;
     display: flex;

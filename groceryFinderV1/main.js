@@ -1,5 +1,12 @@
 const baseURL = `http://localhost:2121`
 
+
+const recipeDisplay = document.querySelector('#recipeDisplay')
+const recipiesSelected = document.querySelector('#recipiesSelected')
+const groceryList = document.querySelector('#groceryList')
+const generateGroceriesBtn = document.querySelector('#generateGroceryListBtn')
+
+
 const mainDishesLink = document.querySelector('#mainDishesLink')
 const saladsLink = document.querySelector('#saladsLink')
 const sideDishesLink = document.querySelector('#sideDishesLink')
@@ -16,8 +23,8 @@ const pastriesLink = document.querySelector('#pastriesLink')
 const otherRecipiesLink = document.querySelector('#otherRecipiesLink')
 
 
-
 const errCallback = err => console.log(err);
+
 
 const getMainDishes = () => axios.get(`${baseURL}/mainDishes`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
 const getSalads = () => axios.get(`${baseURL}/salads`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
@@ -33,7 +40,6 @@ const getCakesAndPies = () => axios.get(`${baseURL}/cakesAndPies`).then((res) =>
 const getCookies = () => axios.get(`${baseURL}/cookies`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
 const getPastries = () => axios.get(`${baseURL}/pastries`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
 const getOtherRecipies = () => axios.get(`${baseURL}/otherRecipies`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
-
 
 
 mainDishesLink.addEventListener("click", getMainDishes);
@@ -52,6 +58,13 @@ pastriesLink.addEventListener("click", getPastries);
 otherRecipiesLink.addEventListener("click", getOtherRecipies);
 
 
+generateGroceriesBtn.addEventListener("click", generateGroceries);
+
+
+
+
+
+
 
 
 function createItemCardMainDishes(mainDishes) {
@@ -66,17 +79,27 @@ function createItemCardMainDishes(mainDishes) {
     </div>
     `
     
-    itemContainer.appendChild(itemCard)
-    const addToCartBtn = document.querySelector(`#btn_${mshirt.id}`)
+    recipeDisplay.appendChild(itemCard)
+    const addToRecipiesBtn = document.querySelector(`#btn_${mainDishes.id}`)
 
-    addToCartBtn.addEventListener("click", () => {
-        addToCart(mshirt)
+    addToRecipiesBtn.addEventListener("click", () => {
+        addToCart(mainDishes)
     })
 }
-function displayMShirt(arr) {
-    itemContainer.innerHTML = ``
+function displayMainDishes(arr) {
+    recipeDisplay.innerHTML = ``
     for (let i = 0; i < arr.length; i++) {
-        createItemCardMShirt(arr[i])
+        createItemCardMainDishes(arr[i])
     }
 }
 
+
+
+
+
+
+
+
+function generateGroceries() {
+    console.log("groceries have been gotten or something.")
+}
