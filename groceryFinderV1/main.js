@@ -26,7 +26,8 @@ const otherRecipiesLink = document.querySelector('#otherRecipiesLink')
 const errCallback = err => console.log(err);
 
 
-const getMainDishes = () => axios.get(`${baseURL}/mainDishes`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
+const getMainDishes = () => axios.get(`${baseURL}/mainDishes`).then((res) => {displayMainDishes(res.data)}).catch(errCallback)
+/*
 const getSalads = () => axios.get(`${baseURL}/salads`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
 const getSideDishes = () => axios.get(`${baseURL}/sideDishes`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
 const getAppetizers = () => axios.get(`${baseURL}/appetizers`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
@@ -40,9 +41,10 @@ const getCakesAndPies = () => axios.get(`${baseURL}/cakesAndPies`).then((res) =>
 const getCookies = () => axios.get(`${baseURL}/cookies`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
 const getPastries = () => axios.get(`${baseURL}/pastries`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
 const getOtherRecipies = () => axios.get(`${baseURL}/otherRecipies`).then((res) => {displayMShirt(res.data)}).catch(errCallback)
-
+*/
 
 mainDishesLink.addEventListener("click", getMainDishes);
+/*
 saladsLink.addEventListener("click", getSalads);
 sideDishesLink.addEventListener("click", getSideDishes);
 appetizersLink.addEventListener("click", getAppetizers);
@@ -56,7 +58,7 @@ cakesAndPiesLink.addEventListener("click", getCakesAndPies);
 cookiesLink.addEventListener("click", getCookies);
 pastriesLink.addEventListener("click", getPastries);
 otherRecipiesLink.addEventListener("click", getOtherRecipies);
-
+*/
 
 generateGroceriesBtn.addEventListener("click", generateGroceries);
 
@@ -68,6 +70,8 @@ generateGroceriesBtn.addEventListener("click", generateGroceries);
 
 
 function createItemCardMainDishes(mainDishes) {
+
+    console.log('should be generating recipe card. (x1)')
 
     const itemCard = document.createElement('section')
     itemCard.classList.add('recipeBorder')
